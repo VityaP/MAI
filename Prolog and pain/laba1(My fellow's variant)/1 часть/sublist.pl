@@ -1,0 +1,9 @@
+prefx([X|Xs],[Y|Ys]):-
+	X=Y,
+	prefx(Xs,Ys).	
+prefx([],_):-!.
+sufx(Xs,[_|Ys]):-
+	sufx(Xs,Ys).	
+sufx(Xs,Xs):-!.
+sublst(Xs,Ys):-
+	prefx(Ps,Ys),sufx(Xs,Ps),!.
