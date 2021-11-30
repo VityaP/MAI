@@ -36,7 +36,10 @@
   * [Multimedia](https://github.com/VityaP/MAI/tree/master/Multimedia)
   * [Neuroinformatics](https://github.com/VityaP/MAI/tree/master/Neuroinformatics)
 ## Экзамены в магу
-  * [codes from MAI Exam](https://github.com/VityaP/MAI/tree/master/code)
+  * [МЭИ Exam](https://drive.google.com/drive/folders/1z_PbYuuipi_255W9uYNsJBkgGW5ve__U?usp=sharing)
+  * [МИФИ Exam](https://drive.google.com/drive/folders/1giybhXeXnFEYI13hgZdo_oFR9xmjXgbi?usp=sharing)
+  * [codes from МАИ Exam](https://github.com/VityaP/MAI/tree/master/code)
+  * [МАИ Exam материалы для подготовки](https://drive.google.com/drive/folders/1dnCs9jhFj0UEZmaArathdyXtlT4ZeXm7?usp=sharing)
 
 ## Also в качетсве хобби занимаюсь:
 * Лабы по *Функциональному программированию*.
